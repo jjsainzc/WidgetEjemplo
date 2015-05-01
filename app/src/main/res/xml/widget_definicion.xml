@@ -5,7 +5,9 @@
     android:minWidth="100dp" 
     android:resizeMode="horizontal|vertical" 
     android:label="WidgetEjemplo"
-    android:initialLayout="@layout/activity_widget" android:minResizeHeight="20dp" android:minResizeWidth="80dp"/>
+    android:initialLayout="@layout/activity_widget"
+    android:minResizeHeight="20dp"
+    android:minResizeWidth="80dp"/>
     
 
 
